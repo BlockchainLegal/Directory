@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+The repository for [blockchainlegaldirectory.com](http://blockchainlegaldirectory.com) also at: [https://github.com/BlockchainLegal/Directory](https://github.com/BlockchainLegal/Directory)
 
-You can use the [editor on GitHub](https://github.com/BlockchainLegal/Directory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Below is a prototype data structure for a directory of legal professionals who provide blockchain and distributed ledger related services** . 
 
-### Markdown
+| Name | Link | Status |
+| --- | --- | --- | 
+| **Name:** Bryan Wilson | link | Licensed in MO and Inactive | 
+| BIO: | - | - |
+| **Name:** Dazza Greenwood | [http://dazzagreenwood.com](http://dazzagreenwood.com) | Licensed in MA and Retired | Blurb |
+| BIO: Daniel "Dazza" Greenwood is founder of CIVICS.com, a boutique provider of professional consultancy services for digital identity, automated transactions, data management and technology strategy. Dazza is also a visiting scientist at MIT where he is creating the field of computational law and building out MIT.edu/Blockchain research portfolio. Dazza consults to fortune 100 companies, including telecom, the insurance industry and financial services sector, advising on, architecting and building integrated business, legal and technology cross-boundary networks at industry scale. As an attorney, Dazza served as both in-house and special counsel for technology law, representing corporations and governments and as an intellectual property litigation expert. Dazza has testified before the US House, US Senate and other legislatures on electronic transactions law and consults consults extensively to the public sector, including to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multi-state federated identity expert, the UK Cabinet Office on population-scale identity federation rules and many other public and private sector organizations and global NGOs. | - | - |
+| **Name:**  | Link | Status | 
+| BIO: | - | - |
+| **Name:**  | Link | Status | 
+| BIO: | - | - |
+| **Name:**  | Link | Status | 
+| BIO: | - | - |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----------------------------
 
-```markdown
-Syntax highlighted code block
+This prototype is being developed by Legal Hackers [Dazza Greenwood](https://github.com/dazzaji) and [Bryan Wison](https://github.com/bryangw1) and is inspired (loosely) by GitHub Lawyers list (at: [https://github.com/dpp/lawyersongithub](https://github.com/dpp/lawyersongithub) and [https://github.com/LawyersOnGitHub/lawyersongithub](https://github.com/LawyersOnGitHub/lawyersongithub)) and catalyzed by an idea of [Tiemae Roquerre](https://www.linkedin.com/in/tiemae-roquerre-229ba294) who wondered "why not create a simple directory of lawyers who understand and can advise on blockchain projects/startups/matters/etc?".
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlockchainLegal/Directory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Make a [pull request](https://github.com/BlockchainLegal/Directory/pulls) to add your name to this prototype and share your ideas by adding an [issue](https://github.com/BlockchainLegal/Directory/issues/new) to this repository.
