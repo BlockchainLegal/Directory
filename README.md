@@ -22,3 +22,5 @@ Also at: [https://github.com/BlockchainLegal/Directory](https://github.com/Block
 ----------------------------
 
 This prototype is being developed by Legal Hackers [Dazza Greenwood](https://github.com/dazzaji) and [Bryan Wison](https://github.com/bryangw1) and is inspired (loosely) by GitHub Lawyers list (at: [https://github.com/dpp/lawyersongithub](https://github.com/dpp/lawyersongithub) and [https://github.com/LawyersOnGitHub/lawyersongithub](https://github.com/LawyersOnGitHub/lawyersongithub)) and catalyzed by an idea of [Tiemae Roquerre](https://www.linkedin.com/in/tiemae-roquerre-229ba294) who wondered "why not create a simple directory of lawyers who understand and can advise on blockchain projects/startups/matters/etc?".
+
+Make a [pull request](https://github.com/BlockchainLegal/Directory/pulls)) to add your name to this prototype and share your ideas by adding an [issue](https://github.com/BlockchainLegal/Directory/issues/new) to this repository.
