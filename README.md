@@ -5,4 +5,4 @@ Also at: [https://github.com/BlockchainLegal/Directory](https://github.com/Block
 | Name | Link | Status | Blurb |
 | --- | --- | --- | --- |
 | Bryan Wilson | link | Licensed in MO and Inactive | Blurb |
-| Dazza Greenwood | link | Licensed in MA and Retired | Blurb |
+| Dazza Greenwood | [http://dazzagreenwood.com](http://dazzagreenwood.com) | Licensed in MA and Retired | Blurb |
