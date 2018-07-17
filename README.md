@@ -4,7 +4,7 @@ Also at: [https://github.com/BlockchainLegal/Directory](https://github.com/Block
 
 ------------------
 
-**Below is a prototype data structure for a directory of legal professionals who provide blockchain and distributed ledger related services**
+**Below is a prototype data structure for a directory of legal professionals who provide blockchain and distributed ledger related services** . This prototype is inspired (loosely) by GitHub Lawyers list (at: [https://github.com/dpp/lawyersongithub](https://github.com/dpp/lawyersongithub) and [https://github.com/LawyersOnGitHub/lawyersongithub](https://github.com/LawyersOnGitHub/lawyersongithub)) and catalyzed by an idea of [Tiemae Roquerre](https://www.linkedin.com/in/tiemae-roquerre-229ba294) who wondered "why not create a simple directory of lawyers who understand and can advise on blockchain projects/startups/matters/etc?".
 
 | Name | Link | Status |
 | --- | --- | --- | 
